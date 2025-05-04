@@ -67,3 +67,7 @@ Input → Conv2D(32) → ReLU → MaxPool
 <pre># Output
 - True labels:      cat   ship       ship  airplane
 - Predicted labels: cat   automobile ship  airplane</pre>
+
+# Output:
+![Image](https://github.com/user-attachments/assets/e69e2b1a-6b59-4fc8-93a1-dcef55386390)
+
