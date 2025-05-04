@@ -17,12 +17,12 @@ A deep learning project for image classification using a Convolutional Neural Ne
 
 ## 🧠 Model Architecture
 
-<pre>```text
+```text
 Input → Conv2D(32) → ReLU → MaxPool
      → Conv2D(64) → ReLU → MaxPool
      → Conv2D(128) → ReLU → MaxPool
      → Flatten → FC(512) → ReLU → Dropout
-     → FC(128) → ReLU → FC(10) → Output```</pre>
+     → FC(128) → ReLU → FC(10) → Output```
 
 🚀 Getting Started
 # 1. Clone the repository
@@ -51,6 +51,6 @@ Input → Conv2D(32) → ReLU → MaxPool
 | 5     |  1.12  |
 | 10    |  1.02  |
 
-<pre>```# Output
+```# Output
 - True labels:      cat   ship       ship  airplane
-- Predicted labels: cat   automobile ship  airplane```</pre>
+- Predicted labels: cat   automobile ship  airplane```
