@@ -17,7 +17,7 @@ A deep learning project for image classification using a Convolutional Neural Ne
 
 ## 🧠 Model Architecture
 
-text
+```text
 Input → Conv2D(32) → ReLU → MaxPool
      → Conv2D(64) → ReLU → MaxPool
      → Conv2D(128) → ReLU → MaxPool
@@ -32,10 +32,10 @@ Input → Conv2D(32) → ReLU → MaxPool
   - git clone https://github.com/your-username/deep-cnn-image-cifar10-classification.git
   - cd deep-cnn-image-cifar10-classification
 # 2. Install dependencies
-  -- bash
-  -- Copy
-  -- Edit
-  -- pip install torch torchvision matplotlib
+  - bash
+  - Copy
+  - Edit
+  - pip install torch torchvision matplotlib
 # 3. Run the training script
   - bash
   - Copy
