@@ -1,4 +1,17 @@
-# Deep CNN Image Classifier - CIFAR-10
+# DEEP-LEARNING-PROJECT
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: JAYESH MODHVADIYA
+
+*INTERN ID*: CT4MDA791
+
+*DOMAIN*: DATA SCIENCE
+
+*DURATION*: 4 MONTHS
+
+*MENTOR*: NEELA SANTOSH
+
 
 A deep learning project for image classification using a Convolutional Neural Network (CNN) trained on the CIFAR-10 dataset. Built with PyTorch, this model includes data augmentation, dropout regularization, and achieves improved accuracy over training epochs.
 
